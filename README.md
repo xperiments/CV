@@ -1,12 +1,12 @@
 # Pedro Casaubon
-> 11 Rue Georges Courteline, 66000 Perpignan
-> Date de naissance: 26-02-1973
-> Etat civil: Concubinage
-> Email: *<xperiment@gmail.com>*  
-> Phone: *+34 685 34 06 95 +33 632 11 56 83*
-> Website: *[http://xperiments.io/][1]*  
-> GitHub: *[https://github.com/xperiments][2]*  
-> Linkedin: *[https://es.linkedin.com/in/pedrocasaubon][3]*  
+* 11 Rue Georges Courteline, 66000 Perpignan
+* Date de naissance: 26-02-1973
+* Etat civil: Concubinage
+* Email: *<xperiment@gmail.com>*  
+* Phone: *+34 685 34 06 95 +33 632 11 56 83*
+* Website: *[http://xperiments.io/][1]*  
+* GitHub: *[https://github.com/xperiments][2]*  
+* Linkedin: *[https://es.linkedin.com/in/pedrocasaubon][3]*  
 
 ## Résumé
 
@@ -44,28 +44,28 @@ Actualmente estoy trabajando en Doubleyou.com ( Barcelona ), pero intento encont
 
 
 ## Experience
-** Lead FrontEnd Developer ** at *[Doubleyou][4]* `mar 2014 - actualite`
+**Lead FrontEnd Developer** at *[Doubleyou][4]* `mar 2014 - actualite`
 
 >Superviseur de projets, formation de stagiaires universitaires.
 Responsable du développement Web: Typescript, Javascript, HTML/CSS, AngularJS, PixiJS. 
 Clients: Audi, Nike, Benetton, Mairie de Barcelona.
 
-> ** References: **
+> **References:**
 http://www.airea3cabrio.es/
 https://flueix.cat/
 http://uniteddreams.benettondigital.com/
 
-** Senior FrontEnd Developer ** at *[AgileContents][5]* `2013 - 2014`
+**Senior FrontEnd Developer** at *[AgileContents][5]* `2013 - 2014`
 > Développement d'applications mobiles (Web/iPhone/Android) pour les grands médias.
 Javascript, NodeJS, Typescript, AngularJS, BackboneJS
 Clients: : rtve.es, Globo media, elperiodico.es, televisa.com, telefe.com
 
-** Formateur** at *[www.lidem.eu][6]* `2012 - 2013`
+**Formateur** at *[www.lidem.eu][6]* `2012 - 2013`
 
 > L'Idem : Ecole supérieure formation professionnelle continue.
 > Enseignant multimédia en les matières de Flash / HTML / CSS.
 
-** Freelance ** at *[xperiments][7]* `2008 - 2013`
+**Freelance** at *[xperiments][7]* `2008 - 2013`
 > Membre fondateur.
 http://www.xperiments.io
 Directeur interactif.
@@ -78,7 +78,7 @@ CasaDaqiao, Aisspain, UOC Universitat Oberta de Catalunya, RosebudFilms, Edition
 ZazousEditions, Heineken, L'Idem
 
 
-** Lead interactive Developer ** at *[Doubleyou][4]* `mar 2004 - 2008`
+**Lead interactive Developer** at *[Doubleyou][4]* `mar 2004 - 2008`
 
 >Superviseur de projets, formation de stagiaires universitaires.
 Responsable du développement HTML, Flash, Javascript, PHP Responsable de nouveaux concepts
@@ -87,7 +87,7 @@ Clients: SanMiguel, Mahou, Seat Spain, Audi, Nike, Port Aventura, Coca Cola, Aju
 Barcelona, Atrapalo, Ninco, Evax
 
 
-> ** References: **
+> **References:**
 > http://festivals.doubleyou.com/2006/attitudesmacarra2/
 http://festivals.doubleyou.com/2006/santjordi/
 http://festivals.doubleyou.com/2006/fabrikloop/
@@ -95,24 +95,24 @@ http://festivals.doubleyou.com/2008/pa_latrampa/index.html
 http://festivals.doubleyou.com/2008/atrapalo/onlinecampaign/elsol.html
 
 
-** Lead interactive Developer ** at *[Ogilvy][8]* `2002 - 2004`
+**Lead interactive Developer** at *[Ogilvy][8]* `2002 - 2004`
 
 >Superviseur de projets, formation de stagiaires universitaires.
 Travailler avec les équipes UX pour concevoir et exécuter des modèles de conception appropriées
 Responsable du développement HTML, Flash, DHTML, Javascript , PHP.
 Clients: Nestlé España, laCaixa, Panrrico, Vale Music, Seat España.
 
-** Lead interactive Developer ** at **Volcano** `2002 - 2002`
+**Lead interactive Developer** at **Volcano** `2002 - 2002`
 
 > Travailler avec les équipes UX pour concevoir et exécuter des modèles de conception appropriées
 Responsable du développement HTML, Flash, DHTML, Javascript , PHP.
 
-** Associé créateur. Lead Developer. ** at *[haiku-media][9]* `2000 - 2002`
+**Associé créateur. Lead Developer.** at *[haiku-media][9]* `2000 - 2002`
 
 > Responsable du développement HTML, Flash, DHTML, Javascript, PHP.
 Clients: Editorial Planeta, Joan Manuel Serrat, Nike
 
-** Web Developer. ** at Briefing ( Grupo AGBAR ) `1998 - 2000`
+**Web Developer.** at Briefing ( Grupo AGBAR ) `1998 - 2000`
 
 > Responsable du développement HTML, Flash, DHTML, Javascript, PHP.
 Clients: Editorial Planeta, Joan Manuel Serrat, Nike
